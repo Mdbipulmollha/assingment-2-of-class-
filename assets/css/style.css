@@ -1,0 +1,52 @@
+body{}
+section{  }
+h1{
+	    font-size: 75px;
+        text-align: center;    
+}
+span.a1 {
+    color: red;
+}
+span.a2{ 
+		color: green; }
+span.a3{
+	color: yellow;
+}
+span.a4{
+	color: blue;
+}
+img.bgi {
+    width: 80%;
+    margin-top: 60px;
+}	
+
+.logo {
+    width: 120px;
+    padding: 0;
+    padding-top: 20px;
+    text-align: center;
+    margin-left: 50%;
+    margin-right: 50%;
+}
+img{
+	max-width: 100%
+}
+h2 {
+    font-size: 70px;
+   
+    margin-left: auto;
+   padding-left: 150px;}
+   p {
+    font-size: 40px;
+    font-weight: 100px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+.budget {
+    display: inline;
+    FONT-WEIGHT: 200;
+    text-align: center;
+    background-color: #00380d;
+    font-size: 80px;
+        margin-top: 180px;
+}
